@@ -1,0 +1,2 @@
+Main Class选择org.apache.catalina.startup.Bootstrap；
+VM options中填入： -Dcatalina.home="..\tomcatsrc\lunch"
